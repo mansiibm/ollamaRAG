@@ -1,6 +1,6 @@
 # OllamaRAG (RAG from Scratch)
 
-A beginner-friendly **Retrieval-Augmented Generation (RAG)** project that lets you **chat with your own documents** locally (free) using:
+A simple **Retrieval-Augmented Generation (RAG)** project that lets you **chat with your own documents** locally (free) using:
 
 - **FAISS** for vector storage + similarity search
 - **Hugging Face / SentenceTransformers** for embeddings
